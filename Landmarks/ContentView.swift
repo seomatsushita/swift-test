@@ -15,7 +15,7 @@ struct ContentView: View {
                 .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                 .foregroundStyle(.green)
             HStack {
-                Text("Joshua Tree National Park")
+                Text("Joshua Tree National Parkcc")
                     .font(.subheadline)
                 Spacer()
                 Text("TOKYO")
