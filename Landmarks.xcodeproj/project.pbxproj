@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1402411A28F6CCBD002FB354 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1402411928F6CCBD002FB354 /* HikeBadge.swift */; };
 		1418FEC928D5E36900ADB146 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1418FEC828D5E36900ADB146 /* CircleImage.swift */; };
 		1418FECD28D60AF300ADB146 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1418FECC28D60AF300ADB146 /* MapView.swift */; };
 		141D642428D7DB5B00AE98F3 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 141D642328D7DB5B00AE98F3 /* landmarkData.json */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1402411928F6CCBD002FB354 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		1418FEC828D5E36900ADB146 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; tabWidth = 4; };
 		1418FECC28D60AF300ADB146 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		141D642328D7DB5B00AE98F3 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				1494325728DF513F0034ACCC /* BadgeBackground.swift */,
 				1425BED828E0994C00C9B15E /* BadgeSymbol.swift */,
 				14AF81BD28E1EE2A009B4BE1 /* Badge.swift */,
+				1402411928F6CCBD002FB354 /* HikeBadge.swift */,
 			);
 			path = Badge;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				14AF81BE28E1EE2A009B4BE1 /* Badge.swift in Sources */,
 				146D205A28DB4BB300D0A257 /* LandmarkDetail.swift in Sources */,
 				1494325828DF513F0034ACCC /* BadgeBackground.swift in Sources */,
+				1402411A28F6CCBD002FB354 /* HikeBadge.swift in Sources */,
 				1418FEC928D5E36900ADB146 /* CircleImage.swift in Sources */,
 				141D642628D7DC5000AE98F3 /* Landmark.swift in Sources */,
 				144C2C8428D83C7800712D44 /* LandmarkRow.swift in Sources */,
